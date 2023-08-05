@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  -theme-dark--rosa-fuerte: #f7580a;
+  -theme-dark--negro-profundo:#141414 ;
+  -theme-dark--celest-claro: #87ceeb;
+  -theme-dark--naranja-brillante: #ffa500;
+  -theme-dark--verde-brillante: #00ff00 ;
+  -theme-dark--tono-dorado: #ffd700;
+  -theme-dark--morado-intenso: #8b008b;
+  -theme-dark--rojo-anaranjado: #ff4500;
+
+  -theme-light--rosa-suave: #f9a8c0;
+  -theme-light--gris-claro:#f0f0f0 ;
+  -theme-light--celeste-mas-claro: #b0e2ff ;
+  -theme-light--naranja-calido: #ffd36b;
+  -theme-light--verde-claro: #90ff90  ;
+  -theme-light--tono-suave: #ffea8a;
+  -theme-light--morado-suave: #c993c9 ;
+  -theme-light--rojo-melocoton: #ffaa80;
+}
+
+
